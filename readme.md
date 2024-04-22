@@ -14,8 +14,8 @@ A aplicação consiste em um sistema de gerenciamento de fornecedores, produçã
 
 [Sprint-Backlog](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Sprint_Backlog).
 
-[Casos de uso](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Casos%20de%20uso).
+[Casos de uso](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Casos_de_Uso).
 
-[Diagrama de classe](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagrama%20de%20classe).
+[Diagrama de classe](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagrama_de_Classe).
 
 [Protótipo do projeto](https://www.figma.com/file/x4E7MUEbY9bTutiSkFbD5f/Software_Fazenda_urbana_desktop?type=design&node-id=0-1&mode=design&t=5M8Cg5UNcmb25iEb-0).
