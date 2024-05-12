@@ -18,7 +18,7 @@ Sprint Backlog do projeto, contendo todas as suas versões dentro da pasta:
 
 [Sprint-Backlog](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Sprint_Backlog).
 
-Diagramas:
+**Diagramas:**
 
 [Casos de uso](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Casos_de_Uso).
 
