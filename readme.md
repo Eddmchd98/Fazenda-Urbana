@@ -10,11 +10,11 @@ A aplicação consiste em um sistema de gerenciamento de fornecedores, produçã
 
 # Documentação
 
-Product Backlog do projeto, contendo todas as suas versões dentro da pasta:
+**Product Backlog** do projeto, contendo todas as suas *versões* dentro da pasta:
 
 [Product-Backlog](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Product_Backlog).
 
-Sprint Backlog do projeto, contendo todas as suas versões dentro da pasta:
+**Sprint Backlog** do projeto, contendo todas as suas *versões* dentro da pasta:
 
 [Sprint-Backlog](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Sprint_Backlog).
 
