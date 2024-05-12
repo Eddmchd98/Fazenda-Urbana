@@ -18,4 +18,4 @@ A aplicação consiste em um sistema de gerenciamento de fornecedores, produçã
 
 [Diagrama de classe](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagrama_de_Classe).
 
-[Protótipo do projeto](https://www.figma.com/file/x4E7MUEbY9bTutiSkFbD5f/Software_Fazenda_urbana_desktop?type=design&node-id=0-1&mode=design&t=5M8Cg5UNcmb25iEb-0).
+[Protótipo do projeto]([https://www.figma.com/file/x4E7MUEbY9bTutiSkFbD5f/Software_Fazenda_urbana_desktop?type=design&node-id=0-1&mode=design&t=5M8Cg5UNcmb25iEb-0](https://www.figma.com/proto/ViPkjaaNBb1OTs86IFfEpU/black--and--blue?node-id=1-352&t=vB31Ps8gtjYJhajl-0&scaling=min-zoom&page-id=0%3A1)).
