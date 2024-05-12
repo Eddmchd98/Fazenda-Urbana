@@ -10,12 +10,34 @@ A aplicação consiste em um sistema de gerenciamento de fornecedores, produçã
 
 # Documentação
 
+Product Backlog do projeto, contendo todas as suas versões dentro da pasta:
+
 [Product-Backlog](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Product_Backlog).
+
+Sprint Backlog do projeto, contendo todas as suas versões dentro da pasta:
 
 [Sprint-Backlog](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Sprint_Backlog).
 
+Diagramas:
+
+Diagrama de casos de uso.
+
 [Casos de uso](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Casos_de_Uso).
 
+Diagrama de Classe.
+
 [Diagrama de classe](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagrama_de_Classe).
+
+Diagrama de Sequência.
+
+[Diagrama de Sequência](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/Diagrama_de_sequencia).
+
+Diagrama de Entidade Relacionamento (DER).
+
+[Diagrama Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/DER).
+
+Modelo Entidade Relacionamento (MER).
+
+[Modelo Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/MER)
 
 [Protótipo do projeto](https://www.figma.com/proto/ViPkjaaNBb1OTs86IFfEpU/black--and--blue?node-id=1-352&t=vB31Ps8gtjYJhajl-0&scaling=min-zoom&page-id=0%3A1).
