@@ -28,6 +28,6 @@ Diagramas:
 
 [Diagrama Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/DER).
 
-[Modelo Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/MER)
+[Modelo Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/MER).
 
 [Protótipo do projeto](https://www.figma.com/proto/ViPkjaaNBb1OTs86IFfEpU/black--and--blue?node-id=1-352&t=vB31Ps8gtjYJhajl-0&scaling=min-zoom&page-id=0%3A1).
