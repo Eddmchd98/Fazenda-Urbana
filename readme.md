@@ -50,6 +50,18 @@ Diretório com o **Modelo Entidade Relacionamento** (MER):
 
 [Modelo Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/MER).
 
+# Código
+
+Diretório para documentação dos **códigos** do projeto.
+
+[Script do Banco de Dados](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/C%C3%B3digo/Script_banco_dados)
+
+# Manual
+
+O **Manual de Uso do Sistema** que será utilizado para instruir o usuário no quesito de navegação e utilização do sistema.
+
+[Manual de Uso para Treinamento do Usuário](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Manual)
+
 # Protótipo
 
 **Protótipo** de tela do sistema, no qual fará você ser redirecionado para o site do figma:
