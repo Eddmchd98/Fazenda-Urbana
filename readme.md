@@ -32,6 +32,8 @@ Diretório contendo todas as **sprint** no qual está arquivado as: Daily, Revie
 
 # Diagramas
 
+Os **Diagramas** que foram organizados, documentados e utilizados no projeto:
+
 [Casos de uso](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Casos_de_Uso).
 
 [Diagrama de classe](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagrama_de_Classe).
@@ -40,11 +42,11 @@ Diretório contendo todas as **sprint** no qual está arquivado as: Daily, Revie
 
 # Banco de Dados
 
-Diretório com o *Diagrama Entidade Relacionamento* (DER):
+Diretório com o **Diagrama Entidade Relacionamento** (DER):
 
 [Diagrama Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/DER).
 
-Diretório com o *Modelo Entidade Relacionamento*
+Diretório com o **Modelo Entidade Relacionamento** (MER):
 
 [Modelo Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/MER).
 
