@@ -34,7 +34,13 @@ Diretório contendo todas as **sprint** no qual está arquivado as: Daily, Revie
 
 [Diagrama de Sequência](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/Diagrama_de_sequencia).
 
+**Banco de Dados**
+
+Diretório com o *Diagrama Entidade Relacionamento* (DER):
+
 [Diagrama Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/DER).
+
+Diretório com o *Modelo Entidade Relacionamento*
 
 [Modelo Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/MER).
 
