@@ -34,9 +34,9 @@ Diretório contendo todas as **sprint** no qual está arquivado as: Daily, Revie
 
 Os **Diagramas** que foram organizados, documentados e utilizados no projeto:
 
-[Casos de uso](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Casos_de_Uso).
+[Casos de uso]([https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Casos_de_Uso](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/Casos_de_uso)).
 
-[Diagrama de classe](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagrama_de_Classe).
+[Diagrama de classe]([https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagrama_de_Classe](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/Diagrama_de_classe)).
 
 [Diagrama de Sequência](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/Diagrama_de_sequencia).
 
@@ -44,11 +44,11 @@ Os **Diagramas** que foram organizados, documentados e utilizados no projeto:
 
 Diretório com o **Diagrama Entidade Relacionamento** (DER):
 
-[Diagrama Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/DER).
+[Diagrama Entidade Relacionamento]([https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/DER](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Banco_de_dados/DER)).
 
 Diretório com o **Modelo Entidade Relacionamento** (MER):
 
-[Modelo Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/MER).
+[Modelo Entidade Relacionamento]([https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/MER](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Banco_de_dados/MER)).
 
 # Código
 
