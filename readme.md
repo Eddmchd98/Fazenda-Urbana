@@ -52,6 +52,10 @@ Diretório com o **Modelo Entidade Relacionamento** (MER):
 
 [Modelo Entidade Relacionamento](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Banco_de_dados/MER).
 
+Diretório com o **Dicionário de Dados**:
+
+[Dicionário de Dados](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Banco_de_dados/Dicionario_de_dados)
+
 # Código
 
 Diretório para documentação dos **códigos** do projeto.
