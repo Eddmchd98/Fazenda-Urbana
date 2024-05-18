@@ -40,6 +40,8 @@ Os **Diagramas** que foram organizados, documentados e utilizados no projeto:
 
 [Diagrama de Sequência](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/Diagrama_de_sequencia).
 
+[Diagrama de  Implantação](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Diagramas/Diagrama_de_implantacao).
+
 # Banco de Dados
 
 Diretório com o **Diagrama Entidade Relacionamento** (DER):
