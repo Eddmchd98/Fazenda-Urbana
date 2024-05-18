@@ -66,10 +66,10 @@ Diretório para documentação dos **códigos** do projeto.
 
 O **Manual de Uso do Sistema** que será utilizado para instruir o usuário no quesito de navegação e utilização do sistema.
 
-[Manual de Uso para Treinamento do Usuário](https://www.figma.com/design/ViPkjaaNBb1OTs86IFfEpU/black--and--blue?node-id=0-1&t=dtSbkGIp09Ci2ums-0).
+[Manual de Uso para Treinamento do Usuário](https://github.com/eduardodvmachado/Fazenda-Urbana/tree/main/Manual).
 
 # Protótipo
 
 **Protótipo** de tela do sistema, no qual fará você ser redirecionado para o site do figma:
 
-[Protótipo do projeto](https://www.figma.com/proto/ViPkjaaNBb1OTs86IFfEpU/black--and--blue?node-id=1-352&t=vB31Ps8gtjYJhajl-0&scaling=min-zoom&page-id=0%3A1).
+[Protótipo do projeto](https://www.figma.com/design/ViPkjaaNBb1OTs86IFfEpU/black--and--blue?node-id=0-1&t=dtSbkGIp09Ci2ums-0).
